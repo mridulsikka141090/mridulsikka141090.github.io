@@ -1,0 +1,34 @@
+.qr-app {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.container {
+    max-width: 21rem !important;
+}
+
+.parent {
+    min-height: 100vh;
+  }
+
+.card {
+    padding: 15px;
+    text-align: center;
+    border-radius: 20px !important;
+    border: none !important;
+    -webkit-box-shadow: 1px 1px 5px 1px #D4D4D4;
+    box-shadow: 1px 1px 5px 1px #D4D4D4;
+}
+
+.card img {
+    border-radius: 10px !important;
+}
+
+.card-title {
+    font-family: "Outfit-bold";
+    font-size: 22px;
+}
+
+.card-text {
+    font-family: "Outfit-light";
+    color: hsl(220, 15%, 55%);
+}

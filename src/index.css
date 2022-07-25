@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Outfit-bold";
+    src: local("Outfit"),
+     url("./assets/fonts/Outfit-VariableFont_wght.ttf");
+    font-weight: 700;
+    }
+
+@font-face {
+        font-family: "Outfit-light";
+        src: local("Outfit"),
+         url("./assets/fonts/Outfit-VariableFont_wght.ttf");
+        font-weight: 400;
+    }
+
+p {
+    font-size: 15px;
+}
