@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.ecfe2b6d.css",
+    "main.js": "/react-gh-pages/static/js/main.bf332945.js",
+    "static/media/Outfit-VariableFont_wght.ttf": "/react-gh-pages/static/media/Outfit-VariableFont_wght.bc779fb16a97a6842a72.ttf",
+    "index.html": "/react-gh-pages/index.html",
+    "main.ecfe2b6d.css.map": "/react-gh-pages/static/css/main.ecfe2b6d.css.map",
+    "main.bf332945.js.map": "/react-gh-pages/static/js/main.bf332945.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecfe2b6d.css",
+    "static/js/main.bf332945.js"
+  ]
+}
